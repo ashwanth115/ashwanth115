@@ -1,5 +1,11 @@
 ### Hi there 👋 I am Ashwanth Sridharan!
 
+---
+
+A Software Engineer who is specialised in Javascript and Java Technologies. Professional Experience in Technologies listed below.
+
+I create Softwares for major Companies mostly Web, Desktop and Mobile Applications but also have more knowledge in other domains as well.
+
 <!--
 **ashwanth115/ashwanth115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
