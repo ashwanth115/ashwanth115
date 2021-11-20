@@ -28,6 +28,9 @@ I create Softwares for major Companies mostly Web, Desktop and Mobile Applicatio
 ➡️ https://lecit.chamakatech.com
 
 ➡️ https://chamakatech.in
+
+➡️ https://chamakatech.xyz
+
 <!--
 **ashwanth115/ashwanth115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
